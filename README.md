@@ -1,2 +1,3 @@
 # desenho-solucao
-Repositório para os drafts de desenhos de solução genéricos
+Repositório para os drafts e desenhos de solução genéricos
+
